@@ -12,7 +12,7 @@
     "entry_points": {
         "aiida.tools.dbexporters": [
             "tcod = aiida.tools.dbexporters.tcod"
-        ],
+        ]
     },
     "include_package_data": true,
     "setup_requires": ["reentry"],
